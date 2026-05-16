@@ -193,4 +193,4 @@ Open a web browser and navigate to your instance's public IP address or DNS name
 2. Find your load balancer named `se-{your first name}-as-lt`.
 3. Click on the load balancer name.
 4. Wait until the **Status** changes from `Provisioning` to `Active` (see image6.png).
-5. Verify your application is running by navigating to the load balancer's **DNS name** in your web browser (e.g., `se-otto-as1-lt2-2144247013.eu-west-1.elb.amazonaws.com`).
+5. Verify your application is running by navigating to the load balancer's **DNS name** in your web browser (e.g., `http://se-otto-as1-lt2-2144247013.eu-west-1.elb.amazonaws.com`).
